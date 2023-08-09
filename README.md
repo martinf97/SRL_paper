@@ -2,7 +2,7 @@
 This repository contains the julia files and jupyter notebooks
 used to calculate the data for the scientific paper 
 "Threshold studies for a hot beam superradiant laser 
-including an atomic guiding potential"
+including an atomic guiding potential".
 
 Moreover it contains the data produced and some files
 to read out and plot the data:
